@@ -1,0 +1,38 @@
+title: join / 加入我们
+
+-
+
++main: {
+  "time": 1626649284906,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"mailto:repository.group@outlook.com\">email us</a>",
+        "large": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://discord.gg/zQgwhgEZUr\">join our discord</a>",
+        "large": false,
+        "alignment": "left"
+      }
+    }
+  ],
+  "version": "2.20.2"
+}
+
+-
+
+checkboxHideTitle: 1
+
+-
+
+checkboxShowInNavbar: 1
+
+-
+
+class: join

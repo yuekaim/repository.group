@@ -1,0 +1,38 @@
+title: about / 关于我们
+
+-
+
++main: {
+  "time": 1626643545488,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[repository.group]是一个由生活在不同时区的华语艺术家、策展人和作家组成的开放、不断生长、扩大的小组。我们生活在北京、柏林、重庆、杜塞尔多夫、汉堡、伦敦、纽约、匹兹堡、上海、温哥华和网络。我们集体处理作为档案、表演和叙事工具的数字场所制造，我们把自己作为一个游牧集体，积极参与当代批评艺术实践和华语艺术领域的活动。我们的目标是创造一个有机扩展的空间，保持开放的探究和研究，试图探索共同的价值，同时鼓励自发的艺术链和更多的合作形式。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[repository.group] is an expanding group of Sinophone artists, curators, and writers living across different time zones. We are based in Beijing, Berlin, Chongqing, Düsseldorf, Hamburg, London, New York, Pittsburgh, Shanghai, Vancouver, and online. Collectively dealing with digital place-making as an archival, performative and narrational tool, we present ourselves as a nomadic collective that is actively engaged in contemporary critical art practices and in Chinese-speaking art spheres. Our goal is to create an organically expanding space that remains open to inquiry and research and that tries to explore common values while encouraging chains of spontaneous artistic and more forms of collaboration."
+      }
+    }
+  ],
+  "version": "2.20.2"
+}
+
+-
+
+checkboxHideThumbnails: 1
+
+-
+
+checkboxHideTitle: 1
+
+-
+
+checkboxShowInNavbar: 1
+
+-
+
+class: about

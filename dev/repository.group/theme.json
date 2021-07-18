@@ -1,0 +1,9 @@
+{
+    "name": "cleomiao/repository.group",
+    "description": "",
+    "author": "cleo miao",
+    "license": "MIT",
+    "tooltips": {
+        "+main": "The main content of the page"
+    }
+}
